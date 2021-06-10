@@ -1,7 +1,7 @@
 astroid==2.1.0
 Babel==2.6.0
 configparser==3.5.0
-Django==2.1.4
+Django==2.2.24
 django-autocomplete-light==3.3.2
 django-crispy-forms==1.7.2
 django-rest-auth==0.9.3
