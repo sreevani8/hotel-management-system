@@ -24,7 +24,7 @@ pylint-plugin-utils==0.4
 pytz==2018.7
 qrcode==6.0
 qrplatba==0.3.4
-reportlab==3.5.12
+reportlab==3.5.55
 six==1.10.0
 typed-ast==1.1.0
 wrapt==1.10.1
